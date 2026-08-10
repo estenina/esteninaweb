@@ -1,113 +1,163 @@
-# Elena Stenina — Software Engineering Portfolio
+Elena Stenina — Senior Full-Stack Software Engineering & Applied AI Portfolio
 
-Portfolio website for **Elena Stenina**, a Senior Front-End and Full-Stack Engineer with more than eight years of experience building enterprise applications with Angular, TypeScript, C#, .NET Core, REST APIs, and SQL Server.
+Portfolio website for Elena Stenina, a Senior Full-Stack Software Engineer with 8+ years of experience building and modernizing enterprise applications across C#/.NET, Angular, TypeScript, REST APIs, relational databases, and Applied AI.
 
-## About Me
+About Me
 
-I specialize in designing, modernizing, and supporting production web applications. My experience includes:
+I design, build, modernize, and support production software across the full application stack. My experience includes:
 
-* Angular versions 8–21
-* TypeScript, RxJS, and NgRx
-* C# and ASP.NET Core Web APIs
-* SQL Server and T-SQL
-* Reusable UI architecture
-* Application modernization
-* CI/CD with Jenkins and Octopus Deploy
-* Production monitoring and incident response
-* Code reviews and engineering mentorship
+C#, .NET Core, ASP.NET Core, and REST APIs
 
-I have contributed to enterprise platforms serving more than 50,000 users and have owned work from technical design through development, deployment, and production support.
+Angular, TypeScript, JavaScript, RxJS, and NgRx
 
-## Portfolio Highlights
+Entity Framework, NHibernate, LINQ
 
-* Angular application modernization from version 16 through version 21
-* Reusable component and frontend architecture
-* .NET Core API development and refactoring
-* SQL Server query optimization
-* Authentication and authorization integrations
-* Automated deployment pipelines
-* Production incident response and reliability improvements
+SQL Server, Oracle, T-SQL, stored procedures, and query optimization
 
-## Technologies
+Application architecture and API-first design
 
-**Front End**
+Reusable UI and component architecture
 
-Angular, TypeScript, JavaScript, RxJS, NgRx, Kendo UI, Bootstrap, HTML, CSS
+Enterprise application modernization
 
-**Back End**
+Generative AI and AI-assisted software development
 
-C#, .NET Core, ASP.NET Web API, REST APIs, Entity Framework, LINQ
+LLM-powered applications and OpenAI API integrations
 
-**Data**
+Python and FastAPI for AI-enabled services
 
-SQL Server, T-SQL, stored procedures, relational database design
+CI/CD with Jenkins and Octopus Deploy
 
-**DevOps and Cloud**
+Production monitoring, PagerDuty, incident response, and postmortems
 
-Jenkins, Octopus Deploy, GitHub, Google Cloud Platform, PagerDuty
+Code reviews, technical design, and engineering mentorship
 
-## Project Structure
+I have contributed to enterprise platforms serving more than 50,000 users and have owned work from technical design and implementation through deployment, production support, and reliability improvements.
 
-```text
+Portfolio Highlights
+
+AI Document Intelligence Assistant using Python, FastAPI, REST APIs, and LLM integration
+
+Enterprise C#/.NET API development, refactoring, and performance optimization
+
+Angular application modernization from version 16 through version 21
+
+Reusable application and frontend architecture
+
+API-first application design and frontend/backend integration
+
+SQL Server and Oracle query and data-access optimization
+
+Authentication and authorization integrations
+
+Automated CI/CD deployment pipelines
+
+Production incident response and reliability improvements
+
+Generative AI-assisted engineering workflows for code analysis, debugging, documentation, research, and modernization
+
+Technologies
+
+Back End & APIs
+
+C#, .NET Core, ASP.NET Core, ASP.NET Web API, REST APIs, Entity Framework, NHibernate, LINQ, authentication and authorization
+
+Front End
+
+Angular, TypeScript, JavaScript, RxJS, NgRx, Kendo UI/Telerik, Bootstrap, HTML, CSS
+
+Applied AI
+
+Generative AI, LLM Applications, OpenAI API, Prompt Engineering, AI-Assisted Development, Document Intelligence, Python, FastAPI
+
+Data
+
+SQL Server, Oracle, T-SQL, stored procedures, relational database design, query optimization
+
+DevOps, Cloud & Reliability
+
+Jenkins, Octopus Deploy, Git/GitHub, Google Cloud Platform, PagerDuty, staged releases, incident response
+
+Engineering Leadership
+
+Application Architecture, API Design, Technical Design, Code Reviews, Mentorship, Agile/Scrum, Product/QA/DevOps Collaboration
+
+Featured Project
+
+AI Document Intelligence Assistant
+
+An AI-powered document processing application that accepts PDF, DOCX, and TXT files through REST APIs and generates AI-assisted summaries from unstructured content.
+
+The project includes:
+
+Python and FastAPI backend services
+
+File type and size validation
+
+Document text extraction
+
+REST API endpoints
+
+LLM / OpenAI API integration
+
+Structured error handling and fallback behavior
+
+Modular service architecture
+
+Foundation for future RAG, document Q&A, tool calling, and AI agent workflows
+
+Project Structure
+
 portfolio/
 ├── index.html
 ├── README.md
 └── assets/
     └── Elena_Stenina_Resume.pdf
-```
 
-## View the Portfolio
+View the Portfolio
 
-Open `index.html` directly in a browser or visit the deployed GitHub Pages website:
+Live portfolio:https://estenina.github.io/esteninaweb/
 
-**Live portfolio:** Add your GitHub Pages URL here
+You can also open index.html directly in a browser.
 
-Example:
-
-```text
-https://elenastenina.github.io/your-repository-name/
-```
-
-## Run Locally
+Run Locally
 
 No installation or build process is required.
 
-1. Clone the repository:
+Clone the repository:
 
-```bash
-git clone https://github.com/elenastenina/your-repository-name.git
-```
+git clone https://github.com/estenina/esteninaweb.git
 
-2. Open the project folder.
+Open the project folder.
 
-3. Open `index.html` in your browser.
+Open index.html in your browser.
 
-## Deploy with GitHub Pages
+Deploy with GitHub Pages
 
-1. Open the repository on GitHub.
-2. Go to **Settings**.
-3. Select **Pages**.
-4. Under **Build and deployment**, choose **Deploy from a branch**.
-5. Select the `main` branch and `/root` folder.
-6. Click **Save**.
+Open the repository on GitHub.
 
-GitHub will provide the live website URL after deployment.
+Go to Settings.
 
-## Resume
+Select Pages.
+
+Under Build and deployment, choose Deploy from a branch.
+
+Select the main branch and /root folder.
+
+Click Save.
+
+GitHub will publish the site using the repository's GitHub Pages URL.
+
+Resume
 
 My resume is available inside the portfolio:
 
-```text
 assets/Elena_Stenina_Resume.pdf
-```
 
-## Contact
+Contact
 
-* **LinkedIn:** [linkedin.com/in/elenastenina]([https://www.linkedin.com/in/elenastenina](https://www.linkedin.com/in/elena-stenina-a54020a5/)
-* **GitHub:** [github.com/elenastenina](https://github.com/elenastenina)
-* **Email:** [elenastdeveloper@gmail.com](mailto:elenastdeveloper@gmail.com)
+LinkedIn: https://www.linkedin.com/in/elenastenina/
 
----
+GitHub: https://github.com/elenastenina
 
-Built with HTML, Tailwind CSS, and responsive web-design practices.
-
+Email: elenastdeveloper@gmail.com
